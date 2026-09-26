@@ -1,0 +1,11 @@
+## Justification
+Content: El estudiante describe una rutina diaria (levantarse, ducharse, vestirse, formar, desayunar, clases, almuerzo, deportes/clases y dormir) por lo que cubre el punto esencial de rutina diaria. Sin embargo, no indica con qué frecuencia ocurren las actividades (no usa adverbios de frecuencia ni expresiones como “every day”), por lo que falta el punto esencial de actividades y frecuencia. También omite los puntos accesorios de tiempo libre y opinión. El texto tiene solo 71 palabras, por debajo del 80 % del mínimo requerido, lo que limita el desarrollo de los contenidos. A pesar de estas omisiones, el lector puede obtener una idea general de la jornada de un cadete, de modo que el lector está en general informado; esto corresponde a la banda 3.
+
+Organization: El texto está enlazado con palabras de enlace básicas como “after that”, “After”, “Then”, “Then” e “In the night”, que muestran una secuencia cronológica. No obstante, muchas oraciones carecen de sujeto y la puntuación es irregular, lo que afecta los límites de las oraciones. Además, falta el saludo inicial requerido para una respuesta a Jim; según los criterios institucionales, esto reduce la puntuación de Organización en media banda. Sin la penalización por falta de saludo, la Organización estaría en banda 3; con ella queda en 2.5.
+
+Language: El estudiante utiliza algún vocabulario enseñado (get dressed, form up, have lunch, do sports, barracks, mess hall, classroom, cadet) y vocabulario básico de forma apropiada. Sin embargo, el control gramatical es limitado: falta de sujetos en la mayoría de las oraciones (“After I go to classroom” es correcta, pero la mayoría carece de sujeto), errores de concordancia verbal (“the cadet have”) y construcciones extrañas (“a take shower”). El significado se puede entender en general, pero los errores dificultan la claridad en ocasiones. Esto se ajusta a la banda 2.
+
+## Gramática clave
+El estudiante muestra un control limitado del presente simple: usa correctamente “I go” pero omite sujetos en la mayoría de las oraciones y comete errores de concordancia (“the cadet have”). No emplea ningún adverbio de frecuencia ni expresión como “every day”, por lo que no cumple con la gramática objetivo de la tarea.
+
+Scores: Content 3 | Organization 2.5 | Language 2

@@ -1,7 +1,7 @@
 # SAMPLE: cadet_routine_06
 Task: cadet_routine
 Original scores: Content 3 | Organization 3.5 | Language 2.5 or 3
-Scores: Content ? | Organization ? | Language ?
+
 
 ## Text
 Hello Jim,

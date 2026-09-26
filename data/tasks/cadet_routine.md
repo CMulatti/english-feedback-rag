@@ -16,17 +16,21 @@ Minimum words: 100
 Maximum words: 150
 
 ## Expected format
-Reply to a message: greeting to Jim (e.g. "Dear Jim", "Hello Jim") and an ending (e.g. "Take care", "Bye", "Best wishes").
+Reply to a message: greeting to Jim (e.g. "Dear Jim", "Hello Jim", "Hi", "Hi Jim") and an ending (e.g. "Take care", "Bye", "Best wishes" "See you").
 
 ## Required content points
 1. [essential] Daily routine
-2. [essential] Activities and how often
+2. [essential] Activities and how often (one adverb or expression of frequency
+   is enough, and frequency can also be clear from context, e.g. a routine
+   described as happening every day)
 3. [accessory] Free time
 4. [accessory] Opinion: is life in the Military Academy hard?
 
 ## Target grammar
 - Present simple
-- Adverbs of frequency: always, usually, sometimes, never
+- Adverbs of frequency: always, usually, sometimes, never.
+  Using at least one of them correctly is enough to show the target grammar.
+  Frequency expressions like "every day" or "on Mondays" also count.
 
 ## Connectors and time references
 First, after that, later, next, then, finally, before, in my opinion,

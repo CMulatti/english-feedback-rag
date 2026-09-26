@@ -1,0 +1,15 @@
+## Justificación
+
+**Content:**
+El texto describe la rutina diaria desde las 5:45 A.M. hasta dormir en la noche, cubriendo el punto esencial 1 (rutina diaria): se levanta, se ducha, se viste, forma en Alpatacal, desayuna en el mess hall, asiste a clases, almuerza, hace deportes o clases, y finalmente va a los barracks a dormir. Sin embargo, menciona actividades como "do sports or classes" pero no indica con qué frecuencia las realiza (no usa adverbios como "always", "usually", "every day" ni expresiones como "on Mondays"), por lo que el punto esencial 2 (actividades y frecuencia) no se responde. No menciona el tiempo libre (punto accesorio 3) ni da su opinión sobre si la vida en la Academia Militar es difícil (punto accesorio 4). El texto tiene 71 palabras, por debajo del 80% del mínimo esperado (80 palabras), lo que impide que alcance la banda 5. El lector obtiene una imagen de la rutina pero no está informado sobre las otras preguntas de Jim. Esto comparte características de las bandas 2 y 3: **banda 2.5**.
+
+**Organization:**
+El texto usa conectores básicos como "after that", "Then" e "In the night", lo que coincide con la banda 3 (texto conectado usando palabras básicas de alta frecuencia). La puntuación separa bien las oraciones. Sin embargo, no tiene saludo a Jim ("Dear Jim", "Hello Jim", etc.), por lo que no sigue el formato de respuesta esperado. Según los criterios institucionales, la ausencia de saludo baja la puntuación en Organization en media banda: 3 - 0.5 = **2.5**. Tampoco tiene un cierre, aunque esto no baja la puntuación según los criterios.
+
+**Language:**
+El texto usa vocabulario enseñado correctamente: "get dressed", "form up", "have lunch", "do sports", "barracks", "mess hall", "classroom", "cadet". Usa el presente simple de manera general. Sin embargo, hay errores gramaticales recurrentes: sujetos omitidos en múltiples oraciones ("Then do sports", "go to barracks and sleep", "where have classes"), "a take shower" en lugar de "and take a shower" o "I take a shower", "where the cadet have a breakfast" (error de artículo), y "alpatacal cordid" (error ortográfico de "Alpatacal Courtyard"). El significado se puede determinar en general, pero los errores son frecuentes y muestran un control limitado. Esto comparte características de las bandas 2 y 3: **banda 2.5**.
+
+## Gramática clave
+El estudiante usa el presente simple como gramática objetivo, pero con control limitado. Hay errores frecuentes de omisión de sujeto ("Then do sports", "go to barracks and sleep") y errores de artículo ("a breakfast", "classroom" sin "the"). No usa adverbios de frecuencia ni expresiones de frecuencia como "every day" o "on Mondays", que son parte de la gramática objetivo de esta tarea y que habrían demostrado el dominio del contenido enseñado.
+
+Scores: Content 2.5 | Organization 2.5 | Language 2.5

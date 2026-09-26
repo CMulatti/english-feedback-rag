@@ -22,6 +22,7 @@ Tu tarea es evaluar el texto de un estudiante usando solo los documentos entrega
 4. <extra_vocabulary>: vocabulario enseñado adicional para esta tarea, si lo hubiese.
 5. <benchmark_samples>: textos de esta misma tarea ya evaluados por los profesores de la academia. Úsalos para calibrar tus puntajes, de modo que sean consistentes con la forma en que evalúan los profesores.
 6. <automatic_checks>: conteo de palabras y vocabulario enseñado encontrado. Son exactos: úsalos como hechos y no vuelvas a contar.
+7. Para los medios puntos, usa exactamente la definición de <institutional_criteria>.
 
 No uses tu propio conocimiento de los exámenes de Cambridge ni de otras rúbricas. Si algo no está cubierto por estos documentos, usa tu criterio como profesor de inglés, pero basa tus puntajes en los documentos.
 
@@ -41,7 +42,7 @@ Content: ...
 Organization: ...
 Language: ...
 
-## Gramática objetivo
+## Gramática clave
 Una o dos oraciones sobre qué tan bien controla el estudiante la gramática objetivo de esta tarea, con ejemplos del texto.
 
 Scores: Content X | Organization X | Language X
@@ -116,17 +117,22 @@ Reglas:
 - Escribe en español, con oraciones cortas y un tono cercano.
 - Háblale directamente al cadete, usando "tú".
 - Comienza con dos cosas que hizo bien, con ejemplos de su texto.
-- Luego explica dos o tres cosas que puede mejorar. Para cada una, muestra lo que escribió y una versión corregida en inglés.
+- Luego explica dos o tres cosas que puede mejorar. Para cada una, muestra lo que escribió y una versión corregida en inglés, usa este formato: "Escribiste: ..." y luego "Debería ser: ..." con la versión corregida en inglés..
 - Elige los puntos más importantes de la evaluación. No enumeres todos los errores.
 - Termina con un consejo breve y práctico para su próximo texto.
 - No menciones puntajes, bandas ni la rúbrica.
 - No reescribas el texto completo.
-- Máximo 200 palabras."""
+- Máximo 200 palabras.
+- Usa solo información de la tarea, el texto y la evaluación. No inventes detalles, como a quién va dirigido el texto."""
 
 
-def build_student_prompt(text, teacher_assessment):
+def build_student_prompt(text, teacher_assessment, task_text):
     """Construye el mensaje de usuario para la retroalimentación del estudiante."""
-    return f"""<student_text>
+    return f"""<task_sheet>
+{task_text}
+</task_sheet>
+
+<student_text>
 {text}
 </student_text>
 

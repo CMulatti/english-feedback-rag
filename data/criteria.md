@@ -5,6 +5,8 @@
 - Half points are allowed. Use x.5 when the text fully meets band x
   and shows some, but not all, features of the band above, or when a
   rule in this file lowers the score by half a band.
+- Band 5 does not require a perfect text. Isolated minor problems do not
+  prevent band 5 if the text meets the band descriptor overall.
 
 ## Content
 - All essential content points of the task must be answered and
@@ -34,6 +36,7 @@
   from being understood. In that case, Content justifies it as
   "point not communicated", not as an error.
 - Punctuation that affects sentence boundaries is assessed under Organization.
+
 
 ## Format
 - The expected format of each task (e.g. greeting and ending in a reply)

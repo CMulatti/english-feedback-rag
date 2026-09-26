@@ -9,7 +9,7 @@ client = OpenAI(
     api_key=os.environ.get("OPENROUTER_API_KEY"),
 )
 
-MODELO = "minimax/minimax-m3: free"
+MODELO = "nvidia/nemotron-3-super-120b-a12b:free"
 
 if __name__ == "__main__":
     respuesta = client.chat.completions.create(
