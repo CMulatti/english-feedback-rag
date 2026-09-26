@@ -1,0 +1,14 @@
+# SAMPLE: santiago_tourism_02
+Task: santiago_tourism
+Scores: Content 4.5 | Organization 5 | Language 5
+
+## Text
+In my opinion, Santiago is the worst city in Chile for tourists. Santiago is a dirty city, and is always polluted and crowded. If you compare New York with Santiago, Santiago is more dangerous than New York, but is cheaper than New York. If I had to recommend a city for tourism, I think that Valdivia is one of the best options. Valdivia is not as polluted as Santiago, is safer than Santiago and is as cheap as Santiago, but the great difference is that you have a lot of beautiful places in Valdivia. Valdivia is a place full of nature, you can find rivers, lakes, forests, mountains, and there you have a “native culture” from the native people called “Mapuches”. The Mapuches’ food there is so delicious, so try the local food is a nice thing to do in Valdivia.
+
+## Teacher justification
+- Content: Answers all the essential points: gives a clear opinion about Santiago with reasons (dirty, polluted, crowded, dangerous), describes it through the comparison, and recommends Valdivia, developing the recommendation with examples that clearly illustrate the writer's point of view (nature, Mapuche culture, local food). Seeing and helping tourists is not mentioned, but only one accessory point is omitted. The text is about 142 words, within the expected length. However, it brings in a third city (New York), which is not the recommended city and confuses the reader for a moment. This is a minor
+irrelevance, a feature of band 3, but the ideas are well developed and the main points are clear: the text fully meets band 4 and shows most features of band 5: 4.5.
+- Organization:  The text is connected and coherent, and easy to follow. It uses basic linking words ("and", "but", "so") together with other cohesive devices ("In my opinion", "If you compare...", "the great difference is that"), and the ideas move clearly from Santiago to the recommendation. Punctuation is used well throughout. This matches band 5: connected and coherent, using basic linking words and a limited number of cohesive devices.
+- Language: Uses the target grammar of the task with variety and good control: comparatives ("more dangerous than", "safer than", "cheaper than"), superlatives ("the worst city", "one of the best options"), and both
+"as ... as" and "not as ... as". Also attempts a conditional ("If I had to recommend"), beyond what is expected at this level. Uses taught vocabulary appropriately (dirty, crowded, dangerous, cheap, safe, try the local food).
+There are a few errors, such as omitted subjects ("and is always polluted","but is cheaper") and "so try the local food is a nice thing" instead of "trying", but meaning is always clear. This matches band 5: everyday vocabulary used generally appropriately, simple grammatical forms with a good degree of control, and noticeable errors that do not affect meaning.

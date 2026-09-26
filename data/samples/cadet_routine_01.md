@@ -1,0 +1,11 @@
+# SAMPLE: cadet_routine_01
+Task: cadet_routine
+Scores: Content 3 | Organization 2.5 | Language 2.5
+
+## Text
+I wake up at 6.00 am. Next, I go to Alpatacal Couryard for line up for the mess hall and have breakfast. Next, I have lessons. Next, I line up in the Alpatacal Courtyard and I lunch in the Mess Hall. Next go to the classroom and have lessons. After go Alpatacal and have dinner at 6:00. Finally go to sleep in the barracks.
+
+## Teacher justification
+- Content: Describes the complete daily routine, from waking up to going to sleep, in a clear order, so the reader gets a good picture of a cadet's day. However, it doesn't mention which activities he does or how often, so an essential point is missing, and it doesn't mention free time or whether life in the M.A. is hard. The text is about 63 words, below 80% of the expected minimum, which is too short to develop the content points. The reader is on the whole informed about the routine, with omissions in the rest of the message: band 3.
+- Organization: The sentences are well separated with correct punctuation, and the sequence of the day is clear. The text is connected, but almost only with "Next", repeated five times, plus "Finally" and a misused "After". This matches band 3: connected using basic, high-frequency linking words. However, there is no greeting, so it does not follow the format of a reply to Jim, which lowers the score by half a band: 2.5.
+- Language: Uses correct basic vocabulary, including taught words (line up, mess hall, barracks, classroom), and the present simple is formed correctly when the subject is present ("I have lessons", "I line up"). However, there are recurring grammar errors: missing subjects ("Next go to the classroom","After go Alpatacal"), "I lunch" instead of "I have lunch", and "for line up" instead of "to line up". The same structures and words are repeated throughout, showing a very limited range. Meaning is never lost. The text fully meets band 2 and shows some features of band 3 (basic vocabulary used reasonably appropriately), but grammatical control is not consistent enough for band 3: 2.5.

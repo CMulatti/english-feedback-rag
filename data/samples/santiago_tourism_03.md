@@ -1,0 +1,14 @@
+# SAMPLE: santiago_tourism_03
+Task: santiago_tourism
+Source: synthetic (written by the teacher based on common student errors)
+Scores: Content 3 | Organization 3 | Language 3.5
+
+## Text
+Yes, but I think Santiago is not a good city for tourists because is dangerous and very crowded. I recommend Pucón. Is small city in the south of Chile and it is more cheap than Santiago. In Pucón you can hiking in the volcano, go to the lake etc. The food is too delicious, and you can buy souvenirs in the local market in the summer is warm. The people in Pucón is more friendly and the city is more clean. Pucón is the most beautiful place in Chile for me. Santiago is a biggest city in Chile but very dangerous in the night and expensive.
+
+
+## Teacher justification
+- Content:  Gives a clear opinion about Santiago with reasons (dangerous, crowded, expensive), compares it with Pucón (cheaper, friendlier, cleaner) and recommends Pucón, supporting it with examples that reflect the writer's point of view (hiking, the lake, souvenirs, the food). However, Santiago is described only briefly, in one sentence at the start and one at the end, while Pucón receives most of the text. The opening "Yes" does not make clear which question it answers, and helping tourists is not mentioned, so the accessory point is not communicated. The text is about 103 words, below the
+expected minimum. The reader is on the whole informed, but the description of Santiago is underdeveloped: band 3.
+- Organization: The text is mostly divided into clear sentences and is connected with basic, high-frequency linking words ("but", "because", "and"). However, some ideas are mixed together because of missing punctuation ("you can buy souvenirs in the local market in the summer is warm"), and the last sentence returns to Santiago after the text seems to have finished with Pucón, which affects the order of ideas. This matches band 3: connected using basic, high-frequency linking words.
+- Language: Uses a good range of vocabulary for the task, including taught words and phrases (crowded, dangerous, cheap, buy souvenirs, local market, hiking), and attempts a variety of structures: comparatives, superlatives, "can" for possibilities, and "because" to give reasons. Some target structures are used correctly ("more friendly", "the most beautiful place in Chile"), and meaning can always be determined. However, there are frequent errors: comparative and superlative forms ("more cheap", "more clean", "a biggest city"), omitted subjects ("because is dangerous", "Is small city") and other basic structures ("you can hiking", "the people is"). "Too delicious" changes the intended meaning. The text fully meets band 3 and shows some features of band 5 (everyday vocabulary used generally appropriately, meaning can still be determined), but grammatical control is not good enough for band 4: 3.5.

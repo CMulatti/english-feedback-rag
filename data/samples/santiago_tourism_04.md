@@ -1,0 +1,13 @@
+# SAMPLE: santiago_tourism_04
+Task: santiago_tourism
+Source: synthetic (written by the teacher based on common student errors)
+Scores: Content 2 | Organization 1.5 | Language 1.5
+
+## Text
+Santiago is a good city for tourist because have many places for visit. Viña del Mar is more beautiful that Santiago. In Viña you can go to the beach and eat in restaurant. Is more cheap and more tranquil. The weather is more hot that Santiago. The persons are very kind. I recommend Pucón because is the best city for the tourist and have the sea. Santiago no have sea.
+
+## Teacher justification
+- Content: Gives an opinion about Santiago, but with a vague reason ("have many places for visit"). The comparison with Viña del Mar is a list of short statements (more beautiful, cheaper, hotter) without examples or development, and Santiago is barely described. The text then recommends Pucón, a city that was not mentioned before, which confuses the reader. [Remove the previous sentence if the recommendation is Viña del Mar.] Seeing and helping tourists is not mentioned. The text is about 75 words, below 80% of the expected minimum. The reader is only partly informed: the text shares features of bands 1 and 3, which corresponds to band 2.
+- Organization: The text reads as a collection of isolated sentences rather than a connected paragraph, which makes it hard for the reader to follow the ideas. Sentences are separated with punctuation, but the only linking words are "because" and "and", and nothing guides the reader from one idea to the next. This matches band 1: production unlikely to be connected, though punctuation and simple connectors may on occasion be used. The ideas follow a basic order (opinion, comparison, recommendation), which shows some features of band 2: 1.5.
+- Language: Vocabulary is limited and repetitive, with "more" used in almost every comparison. Uses a word based on Spanish ("tranquil") instead of the taught vocabulary (quiet, peaceful), and only one taught phrase ("go to the
+beach"). Shows limited control of basic structures: "that" instead of "than" in comparisons, incorrect comparative forms ("more cheap", "more hot"),omitted subjects ("because have many places", "Is more cheap") and negation ("Santiago no have sea"). A few simple sentences are correct ("The persons are very kind" is correct except for "persons", "you can go to the beach"). This matches band 1: few simple grammatical forms with only limited control, with some features of band 2 as meaning can mostly be followed: 1.5.                                                                 

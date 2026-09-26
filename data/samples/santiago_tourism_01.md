@@ -1,0 +1,14 @@
+# SAMPLE: santiago_tourism_01
+Task: santiago_tourism
+Scores: Content 5 | Organization 5 | Language 5
+
+## Text
+Santiago is a big city; there are many places that you can visit if you are a foreigner. The most knowed is Costanera Center, a landmark of Chile. But if you don’t like crowded sites and noisy streets, you can go to my hometown: Putaendo. Unlike Santiago, Putaendo is quiet and the locals are not as bitter as Santiaguinos. Actually, they are very cheerful. In Santiago you can go to sightseeing tour, but in Putaendo you can do it for free. Comercio street is other landmark, there you can buy several souvenirs, like replicas of miniature houses of the street and art. Putaendo is as warm as Texas, so you don’t worry for the weather. Chile is a beautiful country for tourists of the world.
+
+## Teacher justification
+- Content: Goes straight to the point with well-developed and detailed ideas. Describes Santiago (a big city with many places to visit, Costanera Center, sightseeing tours, crowded and noisy streets) and compares it with Putaendo, which is recommended with specific examples (quiet, cheerful locals, free sightseeing, Comercio street and its souvenirs, the weather). The opinion about Santiago is not stated directly, but it is clearly implied: Santiago offers many places, but Putaendo is better for tourists who don't like crowded places. Seeing and helping tourists is not mentioned, but only one
+accessory point is omitted. The text is about 125 words, within the expected length. The target reader is fully informed: band 5.
+- Organization: Really well organized and easy to follow. The text moves clearly from Santiago to Putaendo and ends with a general closing sentence. It uses basic linking words ("but", "so") together with a range of cohesive devices that guide the reader ("Unlike Santiago", "Actually", "like", "there"), and punctuation is varied and used well (semicolon, colon, commas).
+This matches band 5: connected and coherent, using basic linking words and a limited number of cohesive devices.
+- Language: Uses the target grammar of the task with variety: superlative ("the most knowed"), "as ... as" and "not as ... as", and contrast with "Unlike". Uses taught vocabulary appropriately (big, crowded, quiet, landmark, visit, go on a sightseeing tour, buy souvenirs) and adds other appropriate words (noisy, cheerful, hometown, replicas). There are a few errors ("the most knowed" instead of "the most famous" or "best known", "go to sightseeing tour", "other landmark" instead of "another landmark", "you don't worry for the weather"), but they are minimal and never interfere with the message. This
+matches band 5: everyday vocabulary used generally appropriately, simple grammatical forms with a good degree of control, and noticeable errors that do not affect meaning.

@@ -1,0 +1,12 @@
+# SAMPLE: cadet_routine_03
+Task: cadet_routine
+Scores: Content 2 | Organization 2 | Language 2
+
+## Text
+Hello, my name is a Cadet [NAME] a this is my daily routine, for example my week start very happy with my friends in the company I Barracks, aprox 5:45 am, we take a shower, after make my bed and finally take my uniform, after then I go with my friends in the mess hall for a breakfast, in the day take a classes and realize exercise in the gym with my liutenien, my day is very difficult, because is in academy for future officers in Chile. Bye
+
+## Teacher justification
+- Content: Describes only part of the daily routine (waking up, breakfast, classes and the gym) and gives no information about the rest of the day. Mentions exercise in the gym but not how often, so an essential point is missing, and free time is not mentioned. Answers the opinion point briefly ("my day is very difficult"). The text is about 87 words, below the expected
+minimum. Some ideas are confusing ("my week start very happy"), and a reader who doesn't know military life cannot get a clear picture of the routine. The reader is only partly informed: the text shares features of bands 1 and 3, which corresponds to band 2.
+- Organization: Opens with a greeting and closes with "Bye", but does not follow the format of a reply to Jim. The text is written as one long sentence joined by commas, so it is hard for the reader to know where each idea ends. There are some connectors ("after", "finally", "because"), but they are often misused ("after then", "finally" in the middle of the sequence, "for example" without an example). Ideas can still be followed, which places it above band 1, but it is not consistently connected with basic linking words as band 3 requires, thus: band 2.
+- Language: Includes some taught vocabulary (barracks, company, mess hall, gym, lieutenant, uniform) and some correct simple sentences ("we take a shower", "I go with my friends"). However, control is very limited: subjects are often missing ("after make my bed", "because is in academy"), there are errors with articles and verb forms ("a this", "a classes", "my week start"), spelling mistakes in key words ("liutenien", "aprox") and Spanish interference ("realize exercise" from "realizar"). Some errors make meaning unclear ("in the company I Barracks"). The text shares features of band 1 (few simple forms with limited control) and band 3 (basic vocabulary used reasonably appropriately): band 2.
