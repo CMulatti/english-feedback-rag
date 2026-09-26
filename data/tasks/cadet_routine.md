@@ -1,11 +1,11 @@
 # TASK: cadet_routine
 Level: A2 - First year - Course 1
 Extra vocabulary: military.md
-Instructions: A high school student wants to know about the M.A. Write an answer to his message.
+Instructions: A high school student wants to know about the Military Academy Write an answer to his message.
 
 ## Message from the reader
 Dear cadet,
-Is life in the M.A. hard? I want to be a cadet next year and I want to be prepared.
+Is life in the Military Academy hard? I want to be a cadet next year and I want to be prepared.
 What is your routine like? Do you get any free time?
 What activities do you do and how often?
 Tell me in detail,
@@ -22,7 +22,7 @@ Reply to a message: greeting to Jim (e.g. "Dear Jim", "Hello Jim") and an ending
 1. [essential] Daily routine
 2. [essential] Activities and how often
 3. [accessory] Free time
-4. [accessory] Opinion: is life in the M.A. hard?
+4. [accessory] Opinion: is life in the Military Academy hard?
 
 ## Target grammar
 - Present simple

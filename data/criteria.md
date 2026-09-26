@@ -15,6 +15,7 @@
   as long as the essential points are fully developed.
 - Omitting more than one accessory point, or any essential point,
   prevents band 5.
+- Content points can be answered in any order.
 - Length is assessed through Content: texts below the expected length
   usually cannot develop all content points.
 - A text below 80% of the minimum expected length cannot reach band 5.
